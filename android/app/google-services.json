@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "967641649670",
+    "project_id": "eman-rent-shop",
+    "storage_bucket": "eman-rent-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967641649670:android:15a87fd8b5152dce986987",
+        "android_client_info": {
+          "package_name": "com.denny.eman_rent_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967641649670-n2vmhk9lqi0db82hppl3h3odmsvsuuef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFnAdDlEpbn9j9DxhRzfEbFKcfhzA0pHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967641649670-n2vmhk9lqi0db82hppl3h3odmsvsuuef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967641649670:android:a7bfa4bf70c5e485986987",
+        "android_client_info": {
+          "package_name": "com.denny.vendor_app_only"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967641649670-n2vmhk9lqi0db82hppl3h3odmsvsuuef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFnAdDlEpbn9j9DxhRzfEbFKcfhzA0pHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967641649670-n2vmhk9lqi0db82hppl3h3odmsvsuuef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
